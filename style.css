@@ -1,0 +1,24 @@
+body {
+    background: url('https://nerdist.com/wp-content/uploads/2019/01/Avengers-infinity-war-poster.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+  .thumbnail {
+    position: relative;
+}
+
+.title {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+
+#titleCenter{
+  text-align: center;
+}
+#titlePic{
+  align-content: center;
+}
